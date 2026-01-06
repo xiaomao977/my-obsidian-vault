@@ -22,3 +22,21 @@
 
 # 页面布局
 ![[Pasted image 20260105192956.png]]
+![[Pasted image 20260106120339.png]]
+
+
+# 表格标签
+![[Pasted image 20260106121128.png]]
+
+# 表单标签
+![[Pasted image 20260106121702.png]]
+form表单属性:
+action:表单提交的url，往何处提交数据，如果不指定，默认提交到当前页面
+method:表单的提交方式
+	get:在url后面拼接表单数据，比如:?username=Tom&age=12，url长度有限制 ，methond选项的默认值是get。
+	post:在消息体(请求体)中传递的，参数大小无限制的.
+==表单项必须有name属性才可以提交==
+
+## 表单项
+![[Pasted image 20260106122102.png]]
+
