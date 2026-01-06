@@ -41,6 +41,8 @@ JavaScript中分为:原始类型 和引用类型。
 ![[Pasted image 20260106130249.png]]
 
 # js对象
+![[Pasted image 20260106130533.png]]
+
 
 
 # js事件监听
