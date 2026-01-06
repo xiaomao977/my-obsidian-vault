@@ -42,6 +42,28 @@ JavaScript中分为:原始类型 和引用类型。
 
 # js对象
 ![[Pasted image 20260106130533.png]]
+==注意事项==
+JavaScript 中的数组相当于java 中集合，数组的长度是可变的，而JavaScript 是弱类型，所以可以存储任意的类型的数据
+
+![[Pasted image 20260106210913.png]]
+![[Pasted image 20260106211715.png]]
+![[Pasted image 20260106211940.png]]
+![[Pasted image 20260106212309.png]]
+
+==BOM==
+概念:==B==rowser ==O==bject ==M==odel 浏览器对象模型，允许JavaScript与浏览器对话，JavaScript将浏览器的各个组成部分封装为对象。
+
+组成：
+- Window:浏览器窗口对象
+- Navigator:浏览器对象
+- Screen:屏幕对象
+- History:历史记录对象
+- Location:地址栏对象
+
+![[Pasted image 20260106212843.png]]
+![[Pasted image 20260106213229.png]]
+
+![[Pasted image 20260106213441.png]]
 
 
 
